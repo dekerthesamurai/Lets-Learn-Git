@@ -1,0 +1,1 @@
+This Repo was created for the sole intention of getting hands-on knowledge about Git and GitHub and keep learning and getting familar with the GitHub interface.
